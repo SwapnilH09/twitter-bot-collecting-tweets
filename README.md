@@ -1,4 +1,5 @@
 # twitter-bot-collecting-tweets
+Twitter bot to collect tweets from twitter and filtering them across hashtags and location
 
 #### twitter provides with good developer support to extract and filter tweets from twitter
 #### fun project to collect all tweets from twitter which expresses widespread emotions on twitter users in India 
