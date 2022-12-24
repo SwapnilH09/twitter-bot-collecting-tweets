@@ -5,5 +5,5 @@
 
 #### twitter also lets developers filter tweets from hashtags, location and media
 
-#### check out <a href="https://stackoverflow.com/a/62070520/8595790">Managing Tweepy API Search</a>
+#### check out <a href="https://stackoverflow.com/a/62070520/8595790">Managing Tweepy API Search</a> to know more around this API
 #### create developer profile and get credentials from Twitter developer support
